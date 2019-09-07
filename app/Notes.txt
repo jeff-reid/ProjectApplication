@@ -1,0 +1,7 @@
+Statistic Tables:
+
+    - Minimum of 9 players have to bat (set 9 rows within XML).
+        -> Dynamically add more rows if >9 names are found in returned data.
+
+    - Minimum of 1 players has to pitch.
+        -> Dynamically add more rows if >1 name is found in returned data.
